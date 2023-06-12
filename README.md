@@ -91,3 +91,6 @@ Thanks for taking the time to join our community and start contributing!
 [Apache License 2.0](https://github.com/kubernetes/ingress-nginx/blob/main/LICENSE)
 
 ## 安装
+```shell
+kubectl apply -f deploy/static/provider/cloud/deploy.yaml
+```
